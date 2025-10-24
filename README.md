@@ -12,7 +12,12 @@
 
  ## Skills
 
-<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="44" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="44" alt="Git"/></td></table>
+<table style="width: 100%; border: 0px solid white;">
+ <tr>
+<td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" height="44" alt="Windows"/></td>
+<td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="44" alt="Linux"/></td>
+  <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://131335021.cdn6.editmysite.com/uploads/1/3/1/3/131335021/s815253891256106552_p63_i5_w3150.png" height="44" alt="Quarto"/></td>
+<td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="44" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="44" alt="Git"/></td></table>
 
  ## GitHub Stats
 
