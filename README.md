@@ -20,6 +20,13 @@
 <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="44" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="44" alt="Git"/></td></table>
 
  ## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeeraerts&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeeraerts&theme=solarized)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidgeeraerts&theme=solarized&utcOffset=8)
+
 <!---
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DavidGeeraerts)](https://github.com/DavidGeeraerts/github-contribution-stats/)
 --->
@@ -37,5 +44,6 @@
 DavidGeeraerts/DavidGeeraerts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 - 📫 How to reach [me](https://helpwiki.evergreen.edu/wiki/index.php/User:Geeraerd) or <a href="dgeeraerts.evergreen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
+--->
