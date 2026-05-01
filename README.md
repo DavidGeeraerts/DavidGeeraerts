@@ -20,14 +20,15 @@
 <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="44" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="44" alt="Git"/></td></table>
 
  ## GitHub Stats
-
+<!---
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DavidGeeraerts)](https://github.com/DavidGeeraerts/github-contribution-stats/)
-
+--->
+<!---
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DavidGeeraerts&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGeeraerts&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
+--->
  <!---
  [![David Geeraerts GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGeeraerts)](https://github.com/DavidGeeraerts/github-readme-stats)
 --->
