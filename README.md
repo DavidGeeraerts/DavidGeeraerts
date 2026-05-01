@@ -20,12 +20,14 @@
 <td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=r" height="44" alt="R"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="44" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="44" alt="GitHub"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="44" alt="Git"/></td></table>
 
  ## GitHub Stats
+<p align="center">
+<img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeeraerts&theme=solarized />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeeraerts&theme=solarized" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidgeeraerts&theme=solarized&utcOffset=8" width="45%" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeeraerts&theme=solarized)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeeraerts&theme=solarized)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidgeeraerts&theme=solarized&utcOffset=8)
 
 <!---
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DavidGeeraerts)](https://github.com/DavidGeeraerts/github-contribution-stats/)
