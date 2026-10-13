@@ -6,7 +6,7 @@
 
 > ***"Cast your gaze upon the capital of your empire, and you will find two classes of citizens. The one, glutted with riches, displays an opulence which offends those it does not corrupt; the other, mired in destitution, worsens its condition by wearing a mask of posterity which it does not possess: for such is the power of gold (when it is become the god of a nation, stand in the stead of all talent, takes the place of every virtue) that one must either have wealth or feign to have it."***
 
-[**L'Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes, 1770**](https://gallica.bnf.fr/ark:/12148/bpt6k109690m.pdf)
+[**L'Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes, 1770**](https://archive.org/details/histoirephilo01rayn/page/n5/mode/2up)
 
 ![image](Histoiredesdeuxindes.jpg)
 
