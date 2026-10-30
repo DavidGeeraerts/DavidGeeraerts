@@ -24,6 +24,8 @@
   <img src="https://github.com/DavidGeeraerts/AI/blob/main/assets/images/Book-Cover.jpg?raw=true" height="200" alt="The Book of AI" />
 </a>
 
+> Exploring agentic engineering and mapping the current AI landscape.
+
 
  ## GitHub Stats
 
