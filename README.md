@@ -14,17 +14,19 @@
 
 ### Current Focus & Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="40%" valign="middle" align="center">
+<td valign="middle" align="center">
   <a href="https://github.com/DavidGeeraerts/AI">
     <img src="https://github.com/DavidGeeraerts/AI/blob/main/assets/images/Book-Cover.jpg?raw=true" height="220" alt="The Book of AI" />
   </a>
   <br>
   <sub>Exploring agentic engineering & mapping the current AI landscape.</sub>
- </td>
+</td>
 </tr>
 </table>
+</div>
 
 ---
 
