@@ -1,14 +1,7 @@
 ![Header](./github-header-image.png)
 
-![David Geeraerts](https://helpwiki.evergreen.edu/wiki/images/5/5b/Davidg.jpeg)
 
 # Scientific Computing wizard; GIS guru; Lord of the CAL (Computer Applications Lab for Scientific Computing); Maestro of Antiquated Technology; Sliding Tile Puzzle Master; Gremlin Hunter.
-
-> ***"Cast your gaze upon the capital of your empire, and you will find two classes of citizens. The one, glutted with riches, displays an opulence which offends those it does not corrupt; the other, mired in destitution, worsens its condition by wearing a mask of posterity which it does not possess: for such is the power of gold (when it is become the god of a nation, stand in the stead of all talent, takes the place of every virtue) that one must either have wealth or feign to have it."***
-
-[**L'Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes, 1770**](https://archive.org/details/histoirephilo01rayn/page/n5/mode/2up)
-
-![image](Histoiredesdeuxindes.jpg)
 
 ## Skills
 <table style="width: 100%; border: 0px solid white;">
@@ -26,17 +19,25 @@
 </tr>
 </table>
 
+## Current Focus
+<a href="https://github.com/DavidGeeraerts/AI">
+  <img src="https://github.com/DavidGeeraerts/AI/blob/main/assets/images/Book-Cover.jpg?raw=true" height="200" alt="The Book of AI" />
+</a>
+
+
  ## GitHub Stats
+
 <p align="center">
-<img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeeraerts&theme=solarized />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeeraerts&theme=solarized" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davidgeeraerts&theme=solarized&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidgeeraerts&theme=solarized" />
 </p>
 
+<p align="center">
+  <img src=http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidgeeraerts&theme=solarized />
+</p>
+
+<!---
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidGeeraerts&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-
+--->
 <!---
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DavidGeeraerts)](https://github.com/DavidGeeraerts/github-contribution-stats/)
 --->
@@ -60,3 +61,13 @@ You can click the Preview link to take a look at your changes.
 <!---
 - 📫 How to reach [me](https://helpwiki.evergreen.edu/wiki/index.php/User:Geeraerd) or <a href="dgeeraerts.evergreen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
 --->
+
+---
+
+![David Geeraerts](/assets/images/Mount_Adams_Banner.jpg)
+
+> ***"Cast your gaze upon the capital of your empire, and you will find two classes of citizens. The one, glutted with riches, displays an opulence which offends those it does not corrupt; the other, mired in destitution, worsens its condition by wearing a mask of posterity which it does not possess: for such is the power of gold (when it is become the god of a nation, stand in the stead of all talent, takes the place of every virtue) that one must either have wealth or feign to have it."***
+
+[**L'Histoire philosophique et politique des établissements et du commerce des Européens dans les deux Indes, 1770**](https://archive.org/details/histoirephilo01rayn/page/n5/mode/2up)
+
+![image](/assets/images/Histoiredesdeuxindes.jpg)
